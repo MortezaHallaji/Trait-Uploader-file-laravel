@@ -5,7 +5,8 @@ This helper is for easy uploading of files in Laravel
  
  **Installation**
 ----------------------------
-> clone file and put this file to `your-project/app/Http/Controllers` and import to your controller then add `use Uploader`
+> clone file and put this file to `your-project/app/Http/Controllers` and import to your controller then add 
+`use Uploader`
 
 **Usage**
 ----------------------
